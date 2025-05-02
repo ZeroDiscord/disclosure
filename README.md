@@ -15,15 +15,19 @@ You can generate a Discord project with the finest file structure , which will p
 
 ## Features
 - Easy to use!
+- Flexible!
 - A CLI to generate a Discord Bot Project! 
 - Awesome TypeScript Definitions for awesome developer tooling!
 - Sharding Support!
+- Active support!
 - Built-in Command Handler, includes:
   - Argument Parsing
   - Command Inhibitors
   - Prompts! with strong type definitions
   - Cooldown Throttles (Command Cooldown)
 - Supports many databases! See [here](#what-databases-does-it-support)
+
+Also see [Configuration](/Guide-Configuration.md) for guides how to edit Disclosure. And [Advanced Usages](Advanced.md) for advanced usages.
 
 ## Easy To Setup
 
@@ -84,5 +88,5 @@ npm start
  - [MsSQL](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 
 # Join Us For Support 
-[![Join](/assets/Capture.png)](https://discord.gg/HG8s98Uk) <br>
+[![Join](/assets/Capture.png)](https://discord.gg/fJCfptzwjG) <br>
 ![love](https://forthebadge.com/images/badges/built-with-love.svg)

@@ -1,6 +1,6 @@
 {
   "name": "disclosure-discord",
-  "version": "1.3.8",
+  "version": "1.3.16",
   "description": "Discord Bot Generator CLI",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -34,7 +34,7 @@
   "dependencies": {
     "@xetha/escapes": "^1.0.6",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.0",
     "inquirer": "^8.0.0",
     "lookpath": "^1.2.0",
     "minimist": "^1.2.5",
@@ -46,7 +46,7 @@
     "@types/inquirer": "^7.3.1",
     "@types/ioredis": "^4.22.1",
     "@types/minimist": "^1.2.1",
-    "@types/node": "^14.14.35",
+    "@types/node": "^15.0.1",
     "@types/rimraf": "^3.0.0",
     "@types/sequelize": "^4.28.9",
     "@types/validator": "^13.1.3",
